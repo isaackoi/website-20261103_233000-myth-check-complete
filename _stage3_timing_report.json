@@ -1,0 +1,627 @@
+{
+  "version": 1,
+  "page_count": 13,
+  "total_page_seconds": 212.4965,
+  "average_page_seconds": 16.3459,
+  "phase_totals_seconds": {
+    "media_svg": 208.3418,
+    "content_assembly": 1.3347,
+    "content_cleanup_final": 1.0369,
+    "quality_write": 0.9673,
+    "monetization": 0.3635,
+    "youtube": 0.3006,
+    "internal_links": 0.1354,
+    "content_cleanup_initial": 0.0152,
+    "preparation": 0.0014
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Myth_check_0f4e9a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 24.6994,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0038,
+        "content_cleanup_final": 0.0933,
+        "media_svg": 24.3161,
+        "youtube": 0.0332,
+        "content_assembly": 0.1362,
+        "monetization": 0.0343,
+        "quality_write": 0.0816
+      }
+    },
+    {
+      "base_name": "How_to_check_a_claim_3e5f97",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 18.3308,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.0067,
+        "content_cleanup_final": 0.0859,
+        "media_svg": 18.0084,
+        "youtube": 0.011,
+        "content_assembly": 0.1054,
+        "monetization": 0.032,
+        "quality_write": 0.0804
+      }
+    },
+    {
+      "base_name": "Corrections_that_stick_2d9b64",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 17.9611,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0025,
+        "internal_links": 0.0275,
+        "content_cleanup_final": 0.0774,
+        "media_svg": 17.5718,
+        "youtube": 0.0414,
+        "content_assembly": 0.1324,
+        "monetization": 0.0347,
+        "quality_write": 0.0734
+      }
+    },
+    {
+      "base_name": "Verifying_viral_media_2f8c59",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 17.7009,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.005,
+        "content_cleanup_final": 0.078,
+        "media_svg": 17.4369,
+        "youtube": 0.0146,
+        "content_assembly": 0.0744,
+        "monetization": 0.0236,
+        "quality_write": 0.0674
+      }
+    },
+    {
+      "base_name": "Health_myths_real_decisions_4b6d92",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 17.4021,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 0.0066,
+        "content_cleanup_final": 0.0836,
+        "media_svg": 17.0559,
+        "youtube": 0.0236,
+        "content_assembly": 0.1152,
+        "monetization": 0.0347,
+        "quality_write": 0.0812
+      }
+    },
+    {
+      "base_name": "Antibiotics_and_viral_illness_6d8e45",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 17.3484,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0021,
+        "internal_links": 0.0277,
+        "content_cleanup_final": 0.0871,
+        "media_svg": 16.9981,
+        "youtube": 0.0346,
+        "content_assembly": 0.1103,
+        "monetization": 0.0311,
+        "quality_write": 0.0573
+      }
+    },
+    {
+      "base_name": "Do_corrections_work_8c1f47",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 17.1737,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0021,
+        "internal_links": 0.0307,
+        "content_cleanup_final": 0.1461,
+        "media_svg": 16.7494,
+        "youtube": 0.0267,
+        "content_assembly": 0.1183,
+        "monetization": 0.0282,
+        "quality_write": 0.0721
+      }
+    },
+    {
+      "base_name": "Fact_checks_and_votes_7a3e58",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9993,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.0033,
+        "content_cleanup_final": 0.0904,
+        "media_svg": 16.6898,
+        "youtube": 0.0248,
+        "content_assembly": 0.0956,
+        "monetization": 0.0262,
+        "quality_write": 0.0682
+      }
+    },
+    {
+      "base_name": "When_claims_outlive_their_sources_7b5d34",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 16.7414,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0034,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 16.5286,
+        "youtube": 0.0177,
+        "content_assembly": 0.0835,
+        "monetization": 0.0218,
+        "quality_write": 0.0542
+      }
+    },
+    {
+      "base_name": "Studies_versus_headlines_5c4a26",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 16.4889,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0075,
+        "content_cleanup_final": 0.0925,
+        "media_svg": 16.1165,
+        "youtube": 0.0257,
+        "content_assembly": 0.1158,
+        "monetization": 0.0326,
+        "quality_write": 0.0974
+      }
+    },
+    {
+      "base_name": "Repeated_messages_and_false_consensus_9c6f12",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1136,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0029,
+        "content_cleanup_final": 0.0497,
+        "media_svg": 15.8783,
+        "youtube": 0.0222,
+        "content_assembly": 0.0813,
+        "monetization": 0.0266,
+        "quality_write": 0.0519
+      }
+    },
+    {
+      "base_name": "Why_repeated_claims_feel_true_4a9e68",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1384,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0077,
+        "content_cleanup_final": 0.0549,
+        "media_svg": 14.9373,
+        "youtube": 0.0092,
+        "content_assembly": 0.0634,
+        "monetization": 0.0177,
+        "quality_write": 0.0474
+      }
+    },
+    {
+      "base_name": "The_retracted_vaccine_paper_1a7b83",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.3985,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.0026,
+        "content_cleanup_final": 0.0665,
+        "media_svg": 0.0547,
+        "youtube": 0.0159,
+        "content_assembly": 0.1029,
+        "monetization": 0.02,
+        "quality_write": 0.1348
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Antibiotics_and_viral_illness_6d8e45",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 17.3484,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0021,
+        "internal_links": 0.0277,
+        "content_cleanup_final": 0.0871,
+        "media_svg": 16.9981,
+        "youtube": 0.0346,
+        "content_assembly": 0.1103,
+        "monetization": 0.0311,
+        "quality_write": 0.0573
+      }
+    },
+    {
+      "base_name": "Corrections_that_stick_2d9b64",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 17.9611,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0025,
+        "internal_links": 0.0275,
+        "content_cleanup_final": 0.0774,
+        "media_svg": 17.5718,
+        "youtube": 0.0414,
+        "content_assembly": 0.1324,
+        "monetization": 0.0347,
+        "quality_write": 0.0734
+      }
+    },
+    {
+      "base_name": "Do_corrections_work_8c1f47",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 17.1737,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0021,
+        "internal_links": 0.0307,
+        "content_cleanup_final": 0.1461,
+        "media_svg": 16.7494,
+        "youtube": 0.0267,
+        "content_assembly": 0.1183,
+        "monetization": 0.0282,
+        "quality_write": 0.0721
+      }
+    },
+    {
+      "base_name": "Fact_checks_and_votes_7a3e58",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9993,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.0033,
+        "content_cleanup_final": 0.0904,
+        "media_svg": 16.6898,
+        "youtube": 0.0248,
+        "content_assembly": 0.0956,
+        "monetization": 0.0262,
+        "quality_write": 0.0682
+      }
+    },
+    {
+      "base_name": "Health_myths_real_decisions_4b6d92",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 17.4021,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 0.0066,
+        "content_cleanup_final": 0.0836,
+        "media_svg": 17.0559,
+        "youtube": 0.0236,
+        "content_assembly": 0.1152,
+        "monetization": 0.0347,
+        "quality_write": 0.0812
+      }
+    },
+    {
+      "base_name": "How_to_check_a_claim_3e5f97",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 18.3308,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.0067,
+        "content_cleanup_final": 0.0859,
+        "media_svg": 18.0084,
+        "youtube": 0.011,
+        "content_assembly": 0.1054,
+        "monetization": 0.032,
+        "quality_write": 0.0804
+      }
+    },
+    {
+      "base_name": "Repeated_messages_and_false_consensus_9c6f12",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1136,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0029,
+        "content_cleanup_final": 0.0497,
+        "media_svg": 15.8783,
+        "youtube": 0.0222,
+        "content_assembly": 0.0813,
+        "monetization": 0.0266,
+        "quality_write": 0.0519
+      }
+    },
+    {
+      "base_name": "The_retracted_vaccine_paper_1a7b83",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 0.3985,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.0026,
+        "content_cleanup_final": 0.0665,
+        "media_svg": 0.0547,
+        "youtube": 0.0159,
+        "content_assembly": 0.1029,
+        "monetization": 0.02,
+        "quality_write": 0.1348
+      }
+    },
+    {
+      "base_name": "Myth_check_0f4e9a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 24.6994,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0038,
+        "content_cleanup_final": 0.0933,
+        "media_svg": 24.3161,
+        "youtube": 0.0332,
+        "content_assembly": 0.1362,
+        "monetization": 0.0343,
+        "quality_write": 0.0816
+      }
+    },
+    {
+      "base_name": "Studies_versus_headlines_5c4a26",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 16.4889,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0075,
+        "content_cleanup_final": 0.0925,
+        "media_svg": 16.1165,
+        "youtube": 0.0257,
+        "content_assembly": 0.1158,
+        "monetization": 0.0326,
+        "quality_write": 0.0974
+      }
+    },
+    {
+      "base_name": "Verifying_viral_media_2f8c59",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 17.7009,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.005,
+        "content_cleanup_final": 0.078,
+        "media_svg": 17.4369,
+        "youtube": 0.0146,
+        "content_assembly": 0.0744,
+        "monetization": 0.0236,
+        "quality_write": 0.0674
+      }
+    },
+    {
+      "base_name": "When_claims_outlive_their_sources_7b5d34",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 16.7414,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0034,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 16.5286,
+        "youtube": 0.0177,
+        "content_assembly": 0.0835,
+        "monetization": 0.0218,
+        "quality_write": 0.0542
+      }
+    },
+    {
+      "base_name": "Why_repeated_claims_feel_true_4a9e68",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1384,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0077,
+        "content_cleanup_final": 0.0549,
+        "media_svg": 14.9373,
+        "youtube": 0.0092,
+        "content_assembly": 0.0634,
+        "monetization": 0.0177,
+        "quality_write": 0.0474
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 13,
+    "reused_pages": 0,
+    "rebuilt_pages": 13,
+    "error_pages": 0,
+    "page_work_wall_seconds": 85.2409,
+    "rebuilt_pages_per_minute": 9.1505,
+    "queued_rebuild_pages_per_minute": 9.1505,
+    "apparent_page_work_speedup": 2.4929,
+    "youtube_cache_prepare": {
+      "entries": 31,
+      "updated": false,
+      "elapsed_seconds": 0.0023
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 13,
+      "successful_pages": 13,
+      "failed_pages": 0,
+      "worker_summary": {
+        "14796": {
+          "pages": 4,
+          "successes": 4,
+          "failures": 0,
+          "total_worker_seconds": 75.8713,
+          "max_worker_seconds": 24.724,
+          "last_base_name": "When_claims_outlive_their_sources_7b5d34"
+        },
+        "3008": {
+          "pages": 5,
+          "successes": 5,
+          "failures": 0,
+          "total_worker_seconds": 69.7088,
+          "max_worker_seconds": 17.9789,
+          "last_base_name": "Verifying_viral_media_2f8c59"
+        },
+        "16424": {
+          "pages": 4,
+          "successes": 4,
+          "failures": 0,
+          "total_worker_seconds": 67.2218,
+          "max_worker_seconds": 18.3566,
+          "last_base_name": "Why_repeated_claims_feel_true_4a9e68"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Myth_check_0f4e9a",
+          "level": 1,
+          "success": true,
+          "worker_pid": 14796,
+          "worker_duration_seconds": 24.724,
+          "total_seconds": 24.6994,
+          "worker_started_at_utc": "2026-11-03T23:17:11.973209Z",
+          "worker_finished_at_utc": "2026-11-03T23:17:36.672661Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "How_to_check_a_claim_3e5f97",
+          "level": 1,
+          "success": true,
+          "worker_pid": 16424,
+          "worker_duration_seconds": 18.3566,
+          "total_seconds": 18.3308,
+          "worker_started_at_utc": "2026-11-03T23:17:07.398274Z",
+          "worker_finished_at_utc": "2026-11-03T23:17:25.729192Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Corrections_that_stick_2d9b64",
+          "level": 1,
+          "success": true,
+          "worker_pid": 3008,
+          "worker_duration_seconds": 17.9789,
+          "total_seconds": 17.9611,
+          "worker_started_at_utc": "2026-11-03T23:16:43.433295Z",
+          "worker_finished_at_utc": "2026-11-03T23:17:01.394460Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Verifying_viral_media_2f8c59",
+          "level": 1,
+          "success": true,
+          "worker_pid": 3008,
+          "worker_duration_seconds": 17.7487,
+          "total_seconds": 17.7009,
+          "worker_started_at_utc": "2026-11-03T23:17:35.395167Z",
+          "worker_finished_at_utc": "2026-11-03T23:17:53.096143Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Health_myths_real_decisions_4b6d92",
+          "level": 1,
+          "success": true,
+          "worker_pid": 3008,
+          "worker_duration_seconds": 17.4232,
+          "total_seconds": 17.4021,
+          "worker_started_at_utc": "2026-11-03T23:17:01.412665Z",
+          "worker_finished_at_utc": "2026-11-03T23:17:18.814879Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Antibiotics_and_viral_illness_6d8e45",
+          "level": 1,
+          "success": true,
+          "worker_pid": 14796,
+          "worker_duration_seconds": 17.371,
+          "total_seconds": 17.3484,
+          "worker_started_at_utc": "2026-11-03T23:16:37.583891Z",
+          "worker_finished_at_utc": "2026-11-03T23:16:54.932331Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Do_corrections_work_8c1f47",
+          "level": 1,
+          "success": true,
+          "worker_pid": 16424,
+          "worker_duration_seconds": 17.1928,
+          "total_seconds": 17.1737,
+          "worker_started_at_utc": "2026-11-03T23:16:50.204997Z",
+          "worker_finished_at_utc": "2026-11-03T23:17:07.378744Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Fact_checks_and_votes_7a3e58",
+          "level": 1,
+          "success": true,
+          "worker_pid": 14796,
+          "worker_duration_seconds": 17.0175,
+          "total_seconds": 16.9993,
+          "worker_started_at_utc": "2026-11-03T23:16:54.955370Z",
+          "worker_finished_at_utc": "2026-11-03T23:17:11.954696Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "When_claims_outlive_their_sources_7b5d34",
+          "level": 1,
+          "success": true,
+          "worker_pid": 14796,
+          "worker_duration_seconds": 16.7588,
+          "total_seconds": 16.7414,
+          "worker_started_at_utc": "2026-11-03T23:17:36.697648Z",
+          "worker_finished_at_utc": "2026-11-03T23:17:53.439077Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Studies_versus_headlines_5c4a26",
+          "level": 1,
+          "success": true,
+          "worker_pid": 16424,
+          "worker_duration_seconds": 16.5188,
+          "total_seconds": 16.4889,
+          "worker_started_at_utc": "2026-11-03T23:17:25.755210Z",
+          "worker_finished_at_utc": "2026-11-03T23:17:42.244194Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

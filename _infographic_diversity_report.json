@@ -1,0 +1,307 @@
+{
+  "generated_at_utc": "2026-11-03T23:17:59.374101Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 12,
+    "pages_review_recommended": 2,
+    "warning_reason_counts": {
+      "repeated_template_family": 2,
+      "single_reader_role": 1
+    }
+  },
+  "pages": [
+    {
+      "basename": "How_to_check_a_claim_3e5f97",
+      "title": "How to check a claim",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lateral Reading Workflow",
+        "Verification Traps to Avoid",
+        "Claim Verification Verdicts"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": true,
+      "warning_reasons": [
+        "repeated_template_family"
+      ]
+    },
+    {
+      "basename": "Verifying_viral_media_2f8c59",
+      "title": "Verifying viral media",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The 8 Step Verification Workflow",
+        "Metadata vs. Context Clues",
+        "Verdict Categories Explained"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": true,
+      "warning_reasons": [
+        "repeated_template_family",
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Antibiotics_and_viral_illness_6d8e45",
+      "title": "Antibiotics and viral illness",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Decision Path for Respiratory Illness",
+        "Why Antibiotics Fail Against Viruses",
+        "Risks of Unnecessary Antibiotic Use"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Corrections_that_stick_2d9b64",
+      "title": "Corrections that stick",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_chain",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Truth Sandwich Build",
+        "Correction Timing Strategy",
+        "Common Correction Failures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Do_corrections_work_8c1f47",
+      "title": "Do corrections work",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_history",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Debunking Handbook Evolution",
+        "Correction Effectiveness Factors",
+        "Why Myths Persist After Correction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Fact_checks_and_votes_7a3e58",
+      "title": "Fact checks and votes",
+      "infographic_count": 3,
+      "templates": [
+        "process_chevrons",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Fact Check Impact Pathway",
+        "Conditions for Attitude Shift",
+        "Mechanisms of Political Stability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Health_myths_real_decisions_4b6d92",
+      "title": "Health myths real decisions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_chain",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "MMR Vaccine Retraction Time line",
+        "Antibiotic Use vs Viral Illness",
+        "Debunked Brain Myths Explained"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myth_check_0f4e9a",
+      "title": "Myth check",
+      "infographic_count": 3,
+      "templates": [
+        "structure_anatomy",
+        "myth_facts",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Defining Information Disorder Types",
+        "Debunking Common Misconceptions",
+        "Steps to Assess a Doubtful Claim"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Repeated_messages_and_false_consensus_9c6f12",
+      "title": "Repeated messages and false consensus",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_chain",
+        "diverging_bars",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "From Single Post to Crowd Illusion",
+        "Familiarity vs. Independent Agreement",
+        "Audits to Distinguish Copies from Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Studies_versus_headlines_5c4a26",
+      "title": "Studies versus headlines",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Headline to Paper Trail",
+        "Association vs Causation",
+        "Evidence Strength Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "When_claims_outlive_their_sources_7b5d34",
+      "title": "When claims outlive their sources",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Memory Decay Chain",
+        "Correction Strategies",
+        "Risk Factors for Decay"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Why_repeated_claims_feel_true_4a9e68",
+      "title": "Why repeated claims feel true",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_chain",
+        "quadrant",
+        "structure_layers"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "From Exposure to Belief",
+        "Fluency vs. Truth Anchors",
+        "Factors Strengthening the Signal"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

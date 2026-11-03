@@ -1,0 +1,15 @@
+{
+ "brand_name": "Myth Check",
+ "brand_tokens_searched": [
+  "myth",
+  "check"
+ ],
+ "full_phrase_match_count": 14,
+ "generated_at": "2026-11-03T23:17:59",
+ "message": "Configured brand appears verbatim in page sources.",
+ "page_sources_scanned": 14,
+ "schema_version": 1,
+ "token_match_count": 0,
+ "verdict": "coherent",
+ "warning": false
+}

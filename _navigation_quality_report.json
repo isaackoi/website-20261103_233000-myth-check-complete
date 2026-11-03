@@ -1,0 +1,1234 @@
+{
+  "generated_at_utc": "2026-11-03T23:17:59.403016Z",
+  "summary": {
+    "total_pages_with_permalink": 13,
+    "visible_pages": 13,
+    "hidden_pages": 0,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 26,
+    "inline_internal_target_page_count": 12,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 1,
+    "visible_pages_with_inline_outbound_links": 13,
+    "visible_pages_without_inline_outbound_links": 0,
+    "average_inline_inbound_links_per_visible_page": 2.0,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 13,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 182
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [
+      {
+        "basename": "Myth_check_0f4e9a",
+        "title": "Myth check",
+        "permalink": "/myth-check/"
+      }
+    ],
+    "visible_without_inline_outbound_links": [],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Antibiotics_and_viral_illness_6d8e45",
+        "title": "Antibiotics and viral illness",
+        "permalink": "/antibiotics-and-viral-illness/"
+      },
+      {
+        "basename": "Corrections_that_stick_2d9b64",
+        "title": "Corrections that stick",
+        "permalink": "/corrections-that-stick/"
+      },
+      {
+        "basename": "Do_corrections_work_8c1f47",
+        "title": "Do corrections work",
+        "permalink": "/do-corrections-work/"
+      },
+      {
+        "basename": "Fact_checks_and_votes_7a3e58",
+        "title": "Fact checks and votes",
+        "permalink": "/fact-checks-and-votes/"
+      },
+      {
+        "basename": "Health_myths_real_decisions_4b6d92",
+        "title": "Health myths real decisions",
+        "permalink": "/health-myths-real-decisions/"
+      },
+      {
+        "basename": "How_to_check_a_claim_3e5f97",
+        "title": "How to check a claim",
+        "permalink": "/how-to-check-a-claim/"
+      },
+      {
+        "basename": "Myth_check_0f4e9a",
+        "title": "Myth check",
+        "permalink": "/myth-check/"
+      },
+      {
+        "basename": "Repeated_messages_and_false_consensus_9c6f12",
+        "title": "Repeated messages and false consensus",
+        "permalink": "/repeated-messages-and-false-consensus/"
+      },
+      {
+        "basename": "Studies_versus_headlines_5c4a26",
+        "title": "Studies versus headlines",
+        "permalink": "/studies-versus-headlines/"
+      },
+      {
+        "basename": "The_retracted_vaccine_paper_1a7b83",
+        "title": "The retracted vaccine paper",
+        "permalink": "/the-retracted-vaccine-paper/"
+      },
+      {
+        "basename": "Verifying_viral_media_2f8c59",
+        "title": "Verifying viral media",
+        "permalink": "/verifying-viral-media/"
+      },
+      {
+        "basename": "When_claims_outlive_their_sources_7b5d34",
+        "title": "When claims outlive their sources",
+        "permalink": "/when-claims-outlive-their-sources/"
+      },
+      {
+        "basename": "Why_repeated_claims_feel_true_4a9e68",
+        "title": "Why repeated claims feel true",
+        "permalink": "/why-repeated-claims-feel-true/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "How_to_check_a_claim_3e5f97",
+        "title": "How to check a claim",
+        "permalink": "/how-to-check-a-claim/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Why_repeated_claims_feel_true_4a9e68",
+        "title": "Why repeated claims feel true",
+        "permalink": "/why-repeated-claims-feel-true/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "When_claims_outlive_their_sources_7b5d34",
+        "title": "When claims outlive their sources",
+        "permalink": "/when-claims-outlive-their-sources/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Do_corrections_work_8c1f47",
+        "title": "Do corrections work",
+        "permalink": "/do-corrections-work/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Fact_checks_and_votes_7a3e58",
+        "title": "Fact checks and votes",
+        "permalink": "/fact-checks-and-votes/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Health_myths_real_decisions_4b6d92",
+        "title": "Health myths real decisions",
+        "permalink": "/health-myths-real-decisions/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Repeated_messages_and_false_consensus_9c6f12",
+        "title": "Repeated messages and false consensus",
+        "permalink": "/repeated-messages-and-false-consensus/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "The_retracted_vaccine_paper_1a7b83",
+        "title": "The retracted vaccine paper",
+        "permalink": "/the-retracted-vaccine-paper/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Verifying_viral_media_2f8c59",
+        "title": "Verifying viral media",
+        "permalink": "/verifying-viral-media/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Antibiotics_and_viral_illness_6d8e45",
+        "title": "Antibiotics and viral illness",
+        "permalink": "/antibiotics-and-viral-illness/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Corrections_that_stick_2d9b64",
+        "title": "Corrections that stick",
+        "permalink": "/corrections-that-stick/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Studies_versus_headlines_5c4a26",
+        "title": "Studies versus headlines",
+        "permalink": "/studies-versus-headlines/",
+        "inline_inbound_count": 1
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "sibling"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "sibling"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "sibling"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "sibling"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "sibling"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "Myth_check_0f4e9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "sibling"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "sibling"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "sibling"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "sibling"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "sibling"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "sibling"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "sibling"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "sibling"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "sibling"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "sibling"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "sibling"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "Myth_check_0f4e9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "sibling"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "sibling"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "sibling"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "sibling"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "sibling"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "sibling"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "sibling"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "sibling"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "sibling"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "sibling"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "sibling"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Myth_check_0f4e9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "sibling"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "sibling"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "sibling"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "sibling"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "sibling"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "sibling"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "sibling"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "sibling"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "sibling"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "sibling"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "sibling"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Myth_check_0f4e9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "sibling"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "sibling"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "sibling"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "sibling"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "sibling"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "sibling"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "sibling"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "sibling"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "sibling"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "sibling"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "sibling"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "Myth_check_0f4e9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "sibling"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "sibling"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "sibling"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "sibling"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "sibling"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "sibling"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "sibling"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "sibling"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "sibling"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "sibling"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "sibling"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Myth_check_0f4e9a",
+        "type": "sibling"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "sibling"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "sibling"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "sibling"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "sibling"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "sibling"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "sibling"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "sibling"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "sibling"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "sibling"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "sibling"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "sibling"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "sibling"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "sibling"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "sibling"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "sibling"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "sibling"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "sibling"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "sibling"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "sibling"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "sibling"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "sibling"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "sibling"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "sibling"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "sibling"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Myth_check_0f4e9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "sibling"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "sibling"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "sibling"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "sibling"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "sibling"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "sibling"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "sibling"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "sibling"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "sibling"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "sibling"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "sibling"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "Myth_check_0f4e9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "sibling"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "sibling"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "sibling"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "sibling"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "sibling"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "sibling"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "sibling"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "sibling"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "sibling"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "sibling"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "sibling"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "Myth_check_0f4e9a",
+        "type": "sibling"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "sibling"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "sibling"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "sibling"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "sibling"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "sibling"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "sibling"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "sibling"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "sibling"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "sibling"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "sibling"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "sibling"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "Myth_check_0f4e9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "sibling"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "sibling"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "sibling"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "sibling"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "sibling"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "sibling"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "sibling"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "sibling"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "sibling"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "sibling"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "sibling"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Myth_check_0f4e9a",
+        "type": "sibling"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "sibling"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "sibling"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "sibling"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "sibling"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "sibling"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "sibling"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "sibling"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "sibling"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "sibling"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "sibling"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "sibling"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "Myth_check_0f4e9a",
+        "type": "sibling"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "sibling"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "sibling"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "sibling"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "sibling"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "sibling"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "inline_internal"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "inline_internal"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "inline_internal"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "inline_internal"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Antibiotics_and_viral_illness_6d8e45",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Corrections_that_stick_2d9b64",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Corrections_that_stick_2d9b64",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Do_corrections_work_8c1f47",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Do_corrections_work_8c1f47",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Fact_checks_and_votes_7a3e58",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "Antibiotics_and_viral_illness_6d8e45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Health_myths_real_decisions_4b6d92",
+        "to": "The_retracted_vaccine_paper_1a7b83",
+        "type": "inline_internal"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Studies_versus_headlines_5c4a26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "How_to_check_a_claim_3e5f97",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myth_check_0f4e9a",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Fact_checks_and_votes_7a3e58",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Repeated_messages_and_false_consensus_9c6f12",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Studies_versus_headlines_5c4a26",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "Health_myths_real_decisions_4b6d92",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_retracted_vaccine_paper_1a7b83",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "How_to_check_a_claim_3e5f97",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Verifying_viral_media_2f8c59",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "inline_internal"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Verifying_viral_media_2f8c59",
+        "type": "inline_internal"
+      },
+      {
+        "from": "When_claims_outlive_their_sources_7b5d34",
+        "to": "Why_repeated_claims_feel_true_4a9e68",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "Repeated_messages_and_false_consensus_9c6f12",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Why_repeated_claims_feel_true_4a9e68",
+        "to": "When_claims_outlive_their_sources_7b5d34",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

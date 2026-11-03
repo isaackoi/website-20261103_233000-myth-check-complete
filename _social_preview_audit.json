@@ -1,0 +1,915 @@
+{
+  "schema_version": 1,
+  "status": "warn",
+  "generated_at": "2026-11-03T23:17:59.366829+00:00",
+  "summary": {
+    "public_articles": 14,
+    "valid_social_previews": 14,
+    "invalid_social_previews": 0,
+    "warning_count": 14,
+    "layout_counts": {
+      "image": 13,
+      "text": 1
+    }
+  },
+  "contact_sheet": "_social_preview_contact_sheet.jpg",
+  "experiment_manifest": "_social_card_experiment_manifest.jsonl",
+  "review_template": "_social_card_review_template.csv",
+  "launch_pack": "_social_launch_pack.json",
+  "launch_pack_markdown": "_social_launch_pack.md",
+  "launch_tracking": "_social_launch_tracking.csv",
+  "launch_candidate_count": 0,
+  "review_problem_codes": [
+    "weak_visual",
+    "bad_crop",
+    "too_much_text",
+    "redundant_copy",
+    "misleading_visual",
+    "generic"
+  ],
+  "pages": [
+    {
+      "page": "index.md",
+      "title": "Health Collection",
+      "permalink": "/",
+      "canonical_url": "",
+      "image": "/assets/images/social-preview-social-4a654505ec.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Research Map\", with the article title in Health Collection branding.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "",
+        "image_role": "",
+        "layout": "image",
+        "hook_source": "legacy_or_unknown",
+        "copy_text": "",
+        "template_id": "canonical-v2"
+      },
+      "experiment": {
+        "page": "index.md",
+        "permalink": "/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-a27f2daad965",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "legacy_or_unknown",
+        "visual_source": "social-preview-social-4a654505ec.jpg",
+        "treatment_inputs": {
+          "permalink": "/",
+          "title": "Health Collection",
+          "template_id": "canonical-v2",
+          "copy_source": "legacy_or_unknown",
+          "copy_text": "",
+          "visual_source": "social-preview-social-4a654505ec.jpg",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Antibiotics_and_viral_illness_6d8e45.md",
+      "title": "Antibiotics and viral illness",
+      "permalink": "/antibiotics-and-viral-illness/",
+      "canonical_url": "",
+      "image": "/assets/images/Antibiotics_and_viral_illness_6d8e45-Illustration-1-social-ec77c50ba8.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Antibiotics and viral illness\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Antibiotics_and_viral_illness_6d8e45-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Antibiotics cannot cure colds, influenza or other viral infections because they are designed to disrupt bacterial structures and processes that...",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 6.01361154561742,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Antibiotics_and_viral_illness_6d8e45-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 6.01361154561742,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Antibiotics_and_viral_illness_6d8e45.md",
+        "permalink": "/antibiotics-and-viral-illness/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-6dca26887eb5",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Antibiotics_and_viral_illness_6d8e45-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/antibiotics-and-viral-illness/",
+          "title": "Antibiotics and viral illness",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Antibiotics cannot cure colds, influenza or other viral infections because they are designed to disrupt bacterial structures and processes that...",
+          "visual_source": "Antibiotics_and_viral_illness_6d8e45-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Corrections_that_stick_2d9b64.md",
+      "title": "Corrections that stick",
+      "permalink": "/corrections-that-stick/",
+      "canonical_url": "",
+      "image": "/assets/images/Corrections_that_stick_2d9b64-Illustration-1-social-9d24a4e65f.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Corrections that stick\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Corrections_that_stick_2d9b64-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "description",
+        "copy_text": "A correction - a debunking, in the research vocabulary on misinformation; its pre-emptive cousin is prebunking - is most likely to stick when it...",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 5.763083247197722,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Corrections_that_stick_2d9b64-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 5.763083247197722,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Corrections_that_stick_2d9b64.md",
+        "permalink": "/corrections-that-stick/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-75786e3bed66",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "description",
+        "visual_source": "Corrections_that_stick_2d9b64-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/corrections-that-stick/",
+          "title": "Corrections that stick",
+          "template_id": "canonical-v2",
+          "copy_source": "description",
+          "copy_text": "A correction - a debunking, in the research vocabulary on misinformation; its pre-emptive cousin is prebunking - is most likely to stick when it...",
+          "visual_source": "Corrections_that_stick_2d9b64-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Do_corrections_work_8c1f47.md",
+      "title": "Do corrections work",
+      "permalink": "/do-corrections-work/",
+      "canonical_url": "",
+      "image": "/assets/images/Do_corrections_work_8c1f47-Illustration-1-social-63df34e39c.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Do corrections work\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Do_corrections_work_8c1f47-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Corrections usually work: after people see a credible factual correction, their belief in the false claim generally falls.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 5.172909597804116,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Do_corrections_work_8c1f47-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 5.172909597804116,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Do_corrections_work_8c1f47.md",
+        "permalink": "/do-corrections-work/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-9d2e420ef1a3",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Do_corrections_work_8c1f47-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/do-corrections-work/",
+          "title": "Do corrections work",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Corrections usually work: after people see a credible factual correction, their belief in the false claim generally falls.",
+          "visual_source": "Do_corrections_work_8c1f47-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Fact_checks_and_votes_7a3e58.md",
+      "title": "Fact checks and votes",
+      "permalink": "/fact-checks-and-votes/",
+      "canonical_url": "",
+      "image": "/assets/images/Fact_checks_and_votes_7a3e58-Illustration-1-social-5dcb3d7e82.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Fact checks and votes\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Fact_checks_and_votes_7a3e58-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Fact-checks often make political beliefs more accurate without changing how people vote.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 6.309521826764057,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Fact_checks_and_votes_7a3e58-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 6.309521826764057,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Fact_checks_and_votes_7a3e58.md",
+        "permalink": "/fact-checks-and-votes/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-41c70eecdc3c",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Fact_checks_and_votes_7a3e58-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/fact-checks-and-votes/",
+          "title": "Fact checks and votes",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Fact-checks often make political beliefs more accurate without changing how people vote.",
+          "visual_source": "Fact_checks_and_votes_7a3e58-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Health_myths_real_decisions_4b6d92.md",
+      "title": "Health myths real decisions",
+      "permalink": "/health-myths-real-decisions/",
+      "canonical_url": "",
+      "image": "/assets/images/Health_myths_real_decisions_4b6d92-Illustration-1-social-f96ce11952.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Health myths real decisions\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Health_myths_real_decisions_4b6d92-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Health myths become dangerous when they move from screens into decisions: declining vaccination, demanding antibiotics for viral illness, spending...",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 5.728998811328555,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Health_myths_real_decisions_4b6d92-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 5.728998811328555,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Health_myths_real_decisions_4b6d92.md",
+        "permalink": "/health-myths-real-decisions/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-799bfd9de14a",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Health_myths_real_decisions_4b6d92-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/health-myths-real-decisions/",
+          "title": "Health myths real decisions",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Health myths become dangerous when they move from screens into decisions: declining vaccination, demanding antibiotics for viral illness, spending...",
+          "visual_source": "Health_myths_real_decisions_4b6d92-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/How_to_check_a_claim_3e5f97.md",
+      "title": "How to check a claim",
+      "permalink": "/how-to-check-a-claim/",
+      "canonical_url": "",
+      "image": "/assets/images/How_to_check_a_claim_3e5f97-Illustration-1-social-42e91d2016.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"How to check a claim\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "How_to_check_a_claim_3e5f97-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "description",
+        "copy_text": "Before sharing a doubtful claim, pause and run four checks: define it, trace it, test it and compare it - the fact-checking routine that...",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 10.237952321067622,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "How_to_check_a_claim_3e5f97-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 10.237952321067622,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/How_to_check_a_claim_3e5f97.md",
+        "permalink": "/how-to-check-a-claim/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-684a44b9fd04",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "description",
+        "visual_source": "How_to_check_a_claim_3e5f97-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/how-to-check-a-claim/",
+          "title": "How to check a claim",
+          "template_id": "canonical-v2",
+          "copy_source": "description",
+          "copy_text": "Before sharing a doubtful claim, pause and run four checks: define it, trace it, test it and compare it - the fact-checking routine that...",
+          "visual_source": "How_to_check_a_claim_3e5f97-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myth_check_0f4e9a.md",
+      "title": "Myth check",
+      "permalink": "/myth-check/",
+      "canonical_url": "",
+      "image": "/assets/images/Myth_check_0f4e9a-photo1-social-5a1d54a9e7.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myth check\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myth_check_0f4e9a-photo1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Myths and misconceptions are not simply foolish beliefs held by poorly informed people.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 10.078610915220084,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "medium",
+        "candidate_count": 2,
+        "candidates": [
+          {
+            "path": "Myth_check_0f4e9a-photo1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 10.078610915220084,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          },
+          {
+            "path": "Myth_check_0f4e9a-Illustration-1.webp",
+            "image_role": "infographic",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 4.949636903941566,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "infographic",
+            "containment_required": true
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myth_check_0f4e9a.md",
+        "permalink": "/myth-check/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-24f6cc35e958",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Myth_check_0f4e9a-photo1.webp",
+        "treatment_inputs": {
+          "permalink": "/myth-check/",
+          "title": "Myth check",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Myths and misconceptions are not simply foolish beliefs held by poorly informed people.",
+          "visual_source": "Myth_check_0f4e9a-photo1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Repeated_messages_and_false_consensus_9c6f12.md",
+      "title": "Repeated messages and false consensus",
+      "permalink": "/repeated-messages-and-false-consensus/",
+      "canonical_url": "",
+      "image": "/assets/images/Repeated_messages_and_false_consensus_9c6f12-Illustration-1-social-575abe4507.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Repeated messages and false consensus\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Repeated_messages_and_false_consensus_9c6f12-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Repeated messages can create a false impression of social consensus, especially when their common origin is hidden.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 5.7748711928059535,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Repeated_messages_and_false_consensus_9c6f12-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 5.7748711928059535,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Repeated_messages_and_false_consensus_9c6f12.md",
+        "permalink": "/repeated-messages-and-false-consensus/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-c690514289b1",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Repeated_messages_and_false_consensus_9c6f12-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/repeated-messages-and-false-consensus/",
+          "title": "Repeated messages and false consensus",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Repeated messages can create a false impression of social consensus, especially when their common origin is hidden.",
+          "visual_source": "Repeated_messages_and_false_consensus_9c6f12-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Studies_versus_headlines_5c4a26.md",
+      "title": "Studies versus headlines",
+      "permalink": "/studies-versus-headlines/",
+      "canonical_url": "",
+      "image": "/assets/images/Studies_versus_headlines_5c4a26-Illustration-1-social-333f5581f7.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Studies versus headlines\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Studies_versus_headlines_5c4a26-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "To test whether a study supports a headline, compare the strength of the headline’s claim with what the researchers actually did and measured.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 4.895949151277104,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Studies_versus_headlines_5c4a26-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 4.895949151277104,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Studies_versus_headlines_5c4a26.md",
+        "permalink": "/studies-versus-headlines/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-2246f768b771",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Studies_versus_headlines_5c4a26-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/studies-versus-headlines/",
+          "title": "Studies versus headlines",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "To test whether a study supports a headline, compare the strength of the headline’s claim with what the researchers actually did and measured.",
+          "visual_source": "Studies_versus_headlines_5c4a26-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/The_retracted_vaccine_paper_1a7b83.md",
+      "title": "The retracted vaccine paper",
+      "permalink": "/the-retracted-vaccine-paper/",
+      "canonical_url": "",
+      "image": "/assets/images/The_retracted_vaccine_paper_1a7b83/The_retracted_vaccine_paper_1a7b83-social-3d12f2bcb8.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"The retracted vaccine paper\", with the article title in The retracted vaccine paper branding.",
+      "layout": "text",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "",
+        "image_role": "",
+        "layout": "text",
+        "hook_source": "hero_summary",
+        "copy_text": "In 1998, The Lancet published a case series describing 12 children with developmental and intestinal symptoms.",
+        "template_id": "canonical-v2"
+      },
+      "experiment": {
+        "page": "pages/The_retracted_vaccine_paper_1a7b83.md",
+        "permalink": "/the-retracted-vaccine-paper/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-52ac8dcaa4a0",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "The_retracted_vaccine_paper_1a7b83/The_retracted_vaccine_paper_1a7b83-social-3d12f2bcb8.jpg",
+        "treatment_inputs": {
+          "permalink": "/the-retracted-vaccine-paper/",
+          "title": "The retracted vaccine paper",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "In 1998, The Lancet published a case series describing 12 children with developmental and intestinal symptoms.",
+          "visual_source": "The_retracted_vaccine_paper_1a7b83/The_retracted_vaccine_paper_1a7b83-social-3d12f2bcb8.jpg",
+          "layout": "text"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Verifying_viral_media_2f8c59.md",
+      "title": "Verifying viral media",
+      "permalink": "/verifying-viral-media/",
+      "canonical_url": "",
+      "image": "/assets/images/Verifying_viral_media_2f8c59-Illustration-1-social-9cef8710b2.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Verifying viral media\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Verifying_viral_media_2f8c59-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "To verify a viral photograph or video, do not begin by hunting for strange fingers, shadows or pixels - begin instead with the fact-checker's core...",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 11.01460727329107,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Verifying_viral_media_2f8c59-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 11.01460727329107,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Verifying_viral_media_2f8c59.md",
+        "permalink": "/verifying-viral-media/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-c35f2bd36d6d",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Verifying_viral_media_2f8c59-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/verifying-viral-media/",
+          "title": "Verifying viral media",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "To verify a viral photograph or video, do not begin by hunting for strange fingers, shadows or pixels - begin instead with the fact-checker's core...",
+          "visual_source": "Verifying_viral_media_2f8c59-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/When_claims_outlive_their_sources_7b5d34.md",
+      "title": "When claims outlive their sources",
+      "permalink": "/when-claims-outlive-their-sources/",
+      "canonical_url": "",
+      "image": "/assets/images/When_claims_outlive_their_sources_7b5d34-Illustration-1-social-b4f7ef9adc.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"When claims outlive their sources\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "When_claims_outlive_their_sources_7b5d34-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "A claim can outlive the information that told us how to judge it.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 4.941243849917309,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "When_claims_outlive_their_sources_7b5d34-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 4.941243849917309,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/When_claims_outlive_their_sources_7b5d34.md",
+        "permalink": "/when-claims-outlive-their-sources/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-da3419972f06",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "When_claims_outlive_their_sources_7b5d34-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/when-claims-outlive-their-sources/",
+          "title": "When claims outlive their sources",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "A claim can outlive the information that told us how to judge it.",
+          "visual_source": "When_claims_outlive_their_sources_7b5d34-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Why_repeated_claims_feel_true_4a9e68.md",
+      "title": "Why repeated claims feel true",
+      "permalink": "/why-repeated-claims-feel-true/",
+      "canonical_url": "",
+      "image": "/assets/images/Why_repeated_claims_feel_true_4a9e68-Illustration-1-social-5c74b678af.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Why repeated claims feel true\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Why_repeated_claims_feel_true_4a9e68-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Repeated claims can begin to feel true even when repetition adds no evidence.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 5.777518427278574,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Why_repeated_claims_feel_true_4a9e68-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 5.777518427278574,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Why_repeated_claims_feel_true_4a9e68.md",
+        "permalink": "/why-repeated-claims-feel-true/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-9550144d366e",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Why_repeated_claims_feel_true_4a9e68-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/why-repeated-claims-feel-true/",
+          "title": "Why repeated claims feel true",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Repeated claims can begin to feel true even when repetition adds no evidence.",
+          "visual_source": "Why_repeated_claims_feel_true_4a9e68-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    }
+  ]
+}

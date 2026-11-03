@@ -1,0 +1,63 @@
+{
+  "selection_strategy": "legacy-resolvers",
+  "ui_priority": "home-first",
+  "site_shape": {
+    "report_count": 13,
+    "max_level": 1,
+    "deep_report_count": 0,
+    "level_1_count": 13,
+    "level_counts": {
+      "1": 13
+    },
+    "max_children_any_node": 0,
+    "p90_children": 0,
+    "p90_topic_children": 0,
+    "avg_children": 0.0,
+    "primary_branch_count": 13,
+    "visible_nodes_depth_2": 13,
+    "visible_nodes_depth_3": 13,
+    "max_depth": 0,
+    "max_breadth": 13,
+    "breadth_by_depth": {
+      "0": 13
+    },
+    "p90_title_length": 32,
+    "root_density_tier": "very-dense",
+    "top_branch_density_counts": {
+      "sparse": 13,
+      "balanced": 0,
+      "dense": 0,
+      "very-dense": 0
+    },
+    "long_title_branch_count": 0,
+    "single_root_tree": false,
+    "topic_labels": [
+      "Antibiotics and viral illness",
+      "Corrections that stick",
+      "Do corrections work",
+      "Fact checks and votes",
+      "Health myths real decisions",
+      "How to check a claim",
+      "Myth check",
+      "Repeated messages and false consensus",
+      "Studies versus headlines",
+      "The retracted vaccine paper",
+      "Verifying viral media",
+      "When claims outlive their sources",
+      "Why repeated claims feel true"
+    ]
+  },
+  "selected": {
+    "site_visual_identity": "verdant-field",
+    "site_visual_identity_source": "local_inference",
+    "site_visual_identity_confidence": "medium",
+    "visual_profile": "atlas",
+    "layout_archetype": "atlas",
+    "home_layout_mode": "vertical",
+    "auto_home_layout_mode": "catalog",
+    "hierarchy_viz_mode": "cluster-diagram",
+    "palette": "verdant-field",
+    "motif": "orbital"
+  },
+  "candidates": []
+}
