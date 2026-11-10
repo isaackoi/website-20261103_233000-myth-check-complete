@@ -576,7 +576,7 @@ The broader pattern of claims surviving their sources is analysed in [When claim
 
 11. Kreesten Meldgaard Madsen et al., “A Population-Based Study of Measles, Mumps, and Rubella Vaccination and Autism”, *New England Journal of Medicine*. [https://doi.org/10.1056/NEJMoa021134](https://doi.org/10.1056/NEJMoa021134). Accessed 20 October 2026.
 
-12. Liam Smeeth et al., “MMR Vaccination and Pervasive Developmental Disorders: A Case-Control Study”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(04)17189-7](https://doi.org/10.1016/S0140-6736(04)17189-7). Accessed 20 October 2026.
+12. Liam Smeeth et al., “MMR Vaccination and Pervasive Developmental Disorders: A Case-Control Study”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(04)17020-7](https://doi.org/10.1016/S0140-6736(04)17020-7). Accessed 20 October 2026.
 
 13. Institute of Medicine, *Immunization Safety Review: Vaccines and Autism*. [https://doi.org/10.17226/10997](https://doi.org/10.17226/10997). Accessed 20 October 2026.
 
