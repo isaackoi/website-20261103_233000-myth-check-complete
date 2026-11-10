@@ -472,7 +472,7 @@ Repetition also shapes perceived consensus, covered in [Repeated messages and fa
 
 2. Christian Unkelbach, Alex Koch, Ruben R. Silva and Teresa Garcia-Marques, “Truth by Repetition: Explanations and Implications”, *Current Directions in Psychological Science*. [https://doi.org/10.1177/0963721419827854](https://doi.org/10.1177/0963721419827854). Accessed 20 October 2026.
 
-3. Lynn Hasher, David Goldstein and Thomas Toppino, “Frequency and the Conference of Referential Validity”, *Journal of Verbal Learning and Verbal Behavior*. [https://doi.org/10.1016/S0022-5371(77)80012-1](https://doi.org/10.1016/S0022-5371(77) 80012-1). Accessed 20 October 2026.
+3. Lynn Hasher, David Goldstein and Thomas Toppino, “Frequency and the Conference of Referential Validity”, *Journal of Verbal Learning and Verbal Behavior*. [https://doi.org/10.1016/S0022-5371(77)80012-1](https://doi.org/10.1016/S0022-5371(77)80012-1). Accessed 20 October 2026.
 
 4. Alice Dechêne, Christoph Stahl, Jochim Hansen and Michaela Wänke, “The Truth About the Truth: A Meta-Analytic Review of the Truth Effect”, *Personality and Social Psychology Review*. [https://doi.org/10.1177/1088868309352251](https://doi.org/10.1177/1088868309352251). Accessed 20 October 2026.
 

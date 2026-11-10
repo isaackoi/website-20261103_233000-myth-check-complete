@@ -623,7 +623,7 @@ This article is one of the case studies introduced in [Health myths real decisio
 
 12. National Institute for Health and Care Excellence, “Clostridioides difficile Infection: Antimicrobial Prescribing”. [https://www.nice.org.uk/guidance/ng199](https://www.nice.org.uk/guidance/ng199). Accessed 20 October 2026.
 
-13. Christopher J. L. Murray et al., “Global Burden of Bacterial Antimicrobial Resistance in 2019: A Systematic Analysis”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(21)02724-0](https://doi.org/10.1016/S0140-6736(21) 02724-0). Accessed 20 October 2026.
+13. Christopher J. L. Murray et al., “Global Burden of Bacterial Antimicrobial Resistance in 2019: A Systematic Analysis”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(21)02724-0](https://doi.org/10.1016/S0140-6736(21)02724-0). Accessed 20 October 2026.
 
 14. Amanda R. McCullough et al., “A Systematic Review of the Public’s Knowledge and Beliefs About Antibiotic Resistance”, *Journal of Antimicrobial Chemotherapy*. [https://doi.org/10.1093/jac/dku359](https://doi.org/10.1093/jac/dku359). Accessed 20 October 2026.
 

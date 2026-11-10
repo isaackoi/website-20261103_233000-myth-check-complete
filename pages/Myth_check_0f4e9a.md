@@ -507,7 +507,7 @@ Two guides take these questions further: [Why repeated claims feel true]({{ 'why
 
 5. World Health Organization, “Infodemic”. [https://www.who.int/health-topics/infodemic](https://www.who.int/health-topics/infodemic). Accessed 20 October 2026.
 
-6. Lynn Hasher, David Goldstein and Thomas Toppino, “Frequency and the Conference of Referential Validity”, *Journal of Verbal Learning and Verbal Behavior*. [https://doi.org/10.1016/S0022-5371(77)80012-1](https://doi.org/10.1016/S0022-5371(77) 80012-1). Accessed 20 October 2026.
+6. Lynn Hasher, David Goldstein and Thomas Toppino, “Frequency and the Conference of Referential Validity”, *Journal of Verbal Learning and Verbal Behavior*. [https://doi.org/10.1016/S0022-5371(77)80012-1](https://doi.org/10.1016/S0022-5371(77)80012-1). Accessed 20 October 2026.
 
 7. Alice Dechêne et al., “The Truth About the Truth: A Meta-Analytic Review of the Truth Effect”, *Personality and Social Psychology Review*. [https://doi.org/10.1177/1088868309352251](https://doi.org/10.1177/1088868309352251). Accessed 20 October 2026.
 
@@ -551,7 +551,7 @@ Two guides take these questions further: [Why repeated claims feel true]({{ 'why
 
 27. World Health Organization, “Antimicrobial Resistance”. [https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance). Accessed 20 October 2026.
 
-28. The Editors of *The Lancet*, “Retraction—Ileal-Lymphoid-Nodular Hyperplasia, Non-Specific Colitis, and Pervasive Developmental Disorder in Children”. [https://doi.org/10.1016/S0140-6736(10)60175-4](https://doi.org/10.1016/S0140-6736(10) 60175-4). Accessed 20 October 2026.
+28. The Editors of *The Lancet*, “Retraction—Ileal-Lymphoid-Nodular Hyperplasia, Non-Specific Colitis, and Pervasive Developmental Disorder in Children”. [https://doi.org/10.1016/S0140-6736(10)60175-4](https://doi.org/10.1016/S0140-6736(10)60175-4). Accessed 20 October 2026.
 
 29. Anders Hviid et al., “Measles, Mumps, Rubella Vaccination and Autism: A Nationwide Cohort Study”, *Annals of Internal Medicine*. [https://doi.org/10.7326/M18-2101](https://doi.org/10.7326/M18-2101). Accessed 20 October 2026.
 

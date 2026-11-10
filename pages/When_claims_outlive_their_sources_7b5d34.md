@@ -427,7 +427,7 @@ The repetition mechanism that keeps a detached claim alive is covered in [Why re
 
 6. Alison R. Fragale and Chip Heath, “Evolving Informational Credentials: The (Mis)Attribution of Believable Facts to Credible Sources”, *Personality and Social Psychology Bulletin*. [https://doi.org/10.1177/0146167203259933](https://doi.org/10.1177/0146167203259933). Accessed 20 October 2026.
 
-7. Elizabeth J. Marsh, Michelle L. Meade and Henry L. Roediger III, “Learning Facts from Fiction”, *Journal of Memory and Language*. [https://doi.org/10.1016/S0749-596X(03)00092-5](https://doi.org/10.1016/S0749-596X(03) 00092-5). Accessed 20 October 2026.
+7. Elizabeth J. Marsh, Michelle L. Meade and Henry L. Roediger III, “Learning Facts from Fiction”, *Journal of Memory and Language*. [https://doi.org/10.1016/S0749-596X(03)00092-5](https://doi.org/10.1016/S0749-596X(03)00092-5). Accessed 20 October 2026.
 
 8. Elizabeth J. Marsh and Lisa K. Fazio, “Learning Errors from Fiction: Difficulties in Reducing Reliance on Fictional Stories”, *Memory & Cognition*. [https://doi.org/10.3758/BF03193260](https://doi.org/10.3758/BF03193260). Accessed 20 October 2026.
 

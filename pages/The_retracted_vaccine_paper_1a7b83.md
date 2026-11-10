@@ -554,11 +554,11 @@ The broader pattern of claims surviving their sources is analysed in [When claim
 
 ## Endnotes
 
-1. Andrew J. Wakefield et al., “Ileal-Lymphoid-Nodular Hyperplasia, Non-Specific Colitis, and Pervasive Developmental Disorder in Children”, *The Lancet* — retracted article. [https://doi.org/10.1016/S0140-6736(97)11096-0](https://doi.org/10.1016/S0140-6736(97) 11096-0). Accessed 20 October 2026.
+1. Andrew J. Wakefield et al., “Ileal-Lymphoid-Nodular Hyperplasia, Non-Specific Colitis, and Pervasive Developmental Disorder in Children”, *The Lancet* — retracted article. [https://doi.org/10.1016/S0140-6736(97)11096-0](https://doi.org/10.1016/S0140-6736(97)11096-0). Accessed 20 October 2026.
 
-2. The Editors of *The Lancet*, “Retraction—Ileal-Lymphoid-Nodular Hyperplasia, Non-Specific Colitis, and Pervasive Developmental Disorder in Children”. [https://doi.org/10.1016/S0140-6736(10)60175-4](https://doi.org/10.1016/S0140-6736(10) 60175-4). Accessed 20 October 2026.
+2. The Editors of *The Lancet*, “Retraction—Ileal-Lymphoid-Nodular Hyperplasia, Non-Specific Colitis, and Pervasive Developmental Disorder in Children”. [https://doi.org/10.1016/S0140-6736(10)60175-4](https://doi.org/10.1016/S0140-6736(10)60175-4). Accessed 20 October 2026.
 
-3. Simon H. Murch et al., “Retraction of an Interpretation”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(04)15715-2](https://doi.org/10.1016/S0140-6736(04) 15715-2). Accessed 20 October 2026.
+3. Simon H. Murch et al., “Retraction of an Interpretation”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(04)15715-2](https://doi.org/10.1016/S0140-6736(04)15715-2). Accessed 20 October 2026.
 
 4. Anders Hviid et al., “Measles, Mumps, Rubella Vaccination and Autism: A Nationwide Cohort Study”, *Annals of Internal Medicine*. [https://doi.org/10.7326/M18-2101](https://doi.org/10.7326/M18-2101). Accessed 20 October 2026.
 
@@ -572,11 +572,11 @@ The broader pattern of claims surviving their sources is analysed in [When claim
 
 9. *Walker-Smith v General Medical Council*, High Court of Justice, Administrative Court, 2012. [https://www.bailii.org/ew/cases/EWHC/Admin/2012/503.html](https://www.bailii.org/ew/cases/EWHC/Admin/2012/503.html). Accessed 20 October 2026.
 
-10. Brent Taylor et al., “Autism and Measles, Mumps, and Rubella Vaccine: No Epidemiological Evidence for a Causal Association”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(99)01239-8](https://doi.org/10.1016/S0140-6736(99) 01239-8). Accessed 20 October 2026.
+10. Brent Taylor et al., “Autism and Measles, Mumps, and Rubella Vaccine: No Epidemiological Evidence for a Causal Association”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(99)01239-8](https://doi.org/10.1016/S0140-6736(99)01239-8). Accessed 20 October 2026.
 
 11. Kreesten Meldgaard Madsen et al., “A Population-Based Study of Measles, Mumps, and Rubella Vaccination and Autism”, *New England Journal of Medicine*. [https://doi.org/10.1056/NEJMoa021134](https://doi.org/10.1056/NEJMoa021134). Accessed 20 October 2026.
 
-12. Liam Smeeth et al., “MMR Vaccination and Pervasive Developmental Disorders: A Case-Control Study”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(04)17189-7](https://doi.org/10.1016/S0140-6736(04) 17189-7). Accessed 20 October 2026.
+12. Liam Smeeth et al., “MMR Vaccination and Pervasive Developmental Disorders: A Case-Control Study”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(04)17189-7](https://doi.org/10.1016/S0140-6736(04)17189-7). Accessed 20 October 2026.
 
 13. Institute of Medicine, *Immunization Safety Review: Vaccines and Autism*. [https://doi.org/10.17226/10997](https://doi.org/10.17226/10997). Accessed 20 October 2026.
 

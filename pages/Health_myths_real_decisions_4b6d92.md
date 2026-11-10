@@ -565,7 +565,7 @@ Two case studies show the stakes: [Antibiotics and viral illness]({{ 'antibiotic
 
 2. Sahil Loomba et al., “Measuring the Impact of COVID-19 Vaccine Misinformation on Vaccination Intent in the UK and USA”, *Nature Human Behaviour*. [https://doi.org/10.1038/s41562-021-01056-1](https://doi.org/10.1038/s41562-021-01056-1). Accessed 20 October 2026.
 
-3. The Editors of *The Lancet*, “Retraction—Ileal-Lymphoid-Nodular Hyperplasia, Non-Specific Colitis, and Pervasive Developmental Disorder in Children”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(10)60175-4](https://doi.org/10.1016/S0140-6736(10) 60175-4). Accessed 20 October 2026.
+3. The Editors of *The Lancet*, “Retraction—Ileal-Lymphoid-Nodular Hyperplasia, Non-Specific Colitis, and Pervasive Developmental Disorder in Children”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(10)60175-4](https://doi.org/10.1016/S0140-6736(10)60175-4). Accessed 20 October 2026.
 
 4. Brian Deer, “How the Case Against the MMR Vaccine Was Fixed”, *BMJ*. [https://doi.org/10.1136/bmj.c5347](https://doi.org/10.1136/bmj.c5347). Accessed 20 October 2026.
 
