@@ -594,7 +594,7 @@ This article is one of the case studies introduced in [Health myths real decisio
 
 ## Further reading
 
-- World Health Organization, “Antimicrobial resistance” fact sheet <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: World Health Organization, “Antimicrobial Resistance”. https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance. Accessed 20 October 2026">[World Health Organization, “Antimicrobial Resistance”. [https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance). Accessed 20 October 2026]</a><span class="citation-popover" role="note"><span class="citation-popover-source">World Health Organization, “Antimicrobial Resistance”. https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance. Accessed 20 October 2026</span><span class="citation-popover-snippet">Open source on who.int.</span></span></span>
+- World Health Organization, “Antimicrobial resistance” fact sheet <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: World Health Organization, “Antimicrobial Resistance”. https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance. Accessed 20 October 2026">[World Health Organization, “Antimicrobial Resistance”. https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance. Accessed 20 October 2026]</a><span class="citation-popover" role="note"><span class="citation-popover-source">World Health Organization, “Antimicrobial Resistance”. https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance. Accessed 20 October 2026</span><span class="citation-popover-snippet">Open source on who.int.</span></span></span>
 
 
 ## Endnotes
@@ -623,7 +623,7 @@ This article is one of the case studies introduced in [Health myths real decisio
 
 12. National Institute for Health and Care Excellence, “Clostridioides difficile Infection: Antimicrobial Prescribing”. [https://www.nice.org.uk/guidance/ng199](https://www.nice.org.uk/guidance/ng199). Accessed 20 October 2026.
 
-13. Christopher J. L. Murray et al., “Global Burden of Bacterial Antimicrobial Resistance in 2019: A Systematic Analysis”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(21)02724-0](https://doi.org/10.1016/S0140-6736(21) 02724-0). Accessed 20 October 2026.
+13. Christopher J. L. Murray et al., “Global Burden of Bacterial Antimicrobial Resistance in 2019: A Systematic Analysis”, *The Lancet*. [https://doi.org/10.1016/S0140-6736(21)02724-0](https://doi.org/10.1016/S0140-6736(21)02724-0). Accessed 20 October 2026.
 
 14. Amanda R. McCullough et al., “A Systematic Review of the Public’s Knowledge and Beliefs About Antibiotic Resistance”, *Journal of Antimicrobial Chemotherapy*. [https://doi.org/10.1093/jac/dku359](https://doi.org/10.1093/jac/dku359). Accessed 20 October 2026.
 
